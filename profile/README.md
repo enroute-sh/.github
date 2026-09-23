@@ -1,8 +1,8 @@
 <img alt="Enroute — git hosting as an API" src="https://github.com/enroute-sh/enroute/blob/assets/banner.png?raw=true">
 
-# Enroute
+# Enroute - Your repo, your rules.
 
-**Your repo, your rules.** Enroute is open-source, headless git infrastructure
+Enroute is open-source, headless git infrastructure
 built for agentic workloads. It terminates git client connections, stores
 repositories in object storage, and calls your application back when it needs
 a decision. Every rule and workflow is code you own, on infrastructure you run.
